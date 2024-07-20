@@ -1,0 +1,7 @@
+name = "MyPackage"
+uuid = "b218940e-285f-47fd-8c76-4b998627c8b3"
+authors = ["Solène Delannoy-Pavy <sodelannoypavy@gmail.com>"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
