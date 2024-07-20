@@ -1,6 +1,6 @@
 module MyPackage
 
-# J'aime les épinards
+# J'aime les pizzas
 
 
 end
