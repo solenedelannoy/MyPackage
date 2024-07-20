@@ -1,5 +1,5 @@
 module MyPackage
 
-# J'aime les pommes de terre
+# J'aime les épinards
 
 end
