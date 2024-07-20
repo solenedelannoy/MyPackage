@@ -1,6 +1,5 @@
 module MyPackage
 
-# J'aime les pizzas
-f(x) = 14x
+# J'aime les glaces
 
 end
