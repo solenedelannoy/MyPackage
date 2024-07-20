@@ -1,5 +1,6 @@
 module MyPackage
 
-# J'aime le chocolat
+# J'aime le cassoulet
+
 
 end
