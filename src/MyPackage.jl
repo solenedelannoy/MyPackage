@@ -1,5 +1,5 @@
 module MyPackage
 
-# Write your package code here.
+# J'aime les carottes
 
 end
