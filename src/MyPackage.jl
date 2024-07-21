@@ -1,10 +1,10 @@
 module MyPackage
 
-# J'aime les pizzas
+# J'aime les glaces
 
-# Mais aussi les tomates
-# ça ne fait aucun doute
+# Mais aussi les navets
+# Enfin ça dépend
 
-f(x)  = 12x 
+f(x) = 7s*
 
 end
