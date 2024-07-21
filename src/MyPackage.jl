@@ -7,4 +7,6 @@ module MyPackage
 
 f(x) = 7s*
 
+f(x) = 12
+
 end
